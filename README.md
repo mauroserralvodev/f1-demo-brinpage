@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏁 Brinpage F1 Activation Demo – Heineken Edition
 
-## Getting Started
+**Live Demo:** [https://f1.brinpage.com](https://f1.brinpage.com)
 
-First, run the development server:
+## 🎯 What is this?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This is a functional demo created by **Brinpage**, a tech startup focused on AI-powered software. The project showcases a **brand activation platform** designed for high-impact events like the **Formula 1 Monaco Grand Prix**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This version is customized for **Heineken**, one of F1’s global sponsors, and offers an engaging digital experience including:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- A trivia game with questions about F1 and Heineken.
+- A reward system where high scores unlock a real-world gift at the Heineken booth.
+- Fully branded interface and content aligned with Heineken’s tone and style.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧠 About Brinpage
 
-## Learn More
+Brinpage is an AI-first startup building tools that combine technology, design, and intelligence. We're currently developing our own AI model, **BirdMind**, and our flagship product **Liftcode**, a platform that lets users build entire web apps in real-time using AI.
 
-To learn more about Next.js, take a look at the following resources:
+Our long-term vision is to create a next-generation search engine fully powered by conversational and visual AI.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 What does this demo include?
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Mobile-friendly web app**, easily accessible via QR or link.
+- **Interactive trivia game**, with a scoring and prize mechanism.
+- **Custom branding** tailored to Heineken's visual identity.
+- **Backend powered by BirdMind AI** (coming soon).
+- **Live deployment & event support** by the Brinpage team.
+- **Post-event analytics** report: participation data, insights, and media content.
 
-## Deploy on Vercel
+## 🤝 Our proposal
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+We’d like to collaborate with **Heineken** for the Monaco GP by offering:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+✅ A fully developed, branded activation platform  
+✅ Setup, support, and analytics – free of charge  
+✅ In exchange, **2 general admission tickets** to the Monaco Grand Prix and permission to document the experience for our portfolio and social media
+
+## 📬 Contact
+
+Interested in collaborating or want a custom version for your brand?
+
+- **Email:** [mauro@brinpage.com](mailto:mauro@brinpage.com)  
+- **LinkedIn:** [linkedin.com/in/mauro](https://linkedin.com/in/mauro)  
+- **Website:** [https://brinpage.com](https://brinpage.com)
+
+---
+
