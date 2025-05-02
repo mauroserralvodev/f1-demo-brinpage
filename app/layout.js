@@ -3,7 +3,7 @@ import { QuizProvider } from '../context/QuizContext';
 import { formulalBold, formulalRegular, formulalWide } from '@/lib/fonts'
 
 export const metadata = {
-  title: 'BrinPage Demo - F1 Fan Challenge',
+  title: 'BrinPage Demo — F1 Fan Challenge',
   description: 'Quiz demonstration for brand activation at events.',
 };
 
