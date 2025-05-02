@@ -16,8 +16,8 @@ export default function Home() {
           {/* Encabezado  */}
           <div className="space-y-6">
             <div className='flex justify-center items-center '>
-              <Image src="/f1-logo.png" alt="F1 Logo" width={180} height={0} className="pr-5" />
-              <Image src="/heineken.jpg" alt="Sponsor Logo" width={150} height={0} className="border-l border-neutral-600 pl-5" />
+              <Image src="/f1-logo.png" alt="F1 Logo" width={140} height={0} className="pr-5" />
+              <Image src="/heineken.jpg" alt="Sponsor Logo" width={120} height={0} className="border-l border-neutral-600 pl-5" />
             </div> 
             <div className='flex justify-center items-center'>
               <h1 className='text-white text-center text-3xl pb-6'>F1 Fan Challenge</h1>
